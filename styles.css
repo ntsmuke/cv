@@ -1,0 +1,16 @@
+body  {
+     background-color:#EAF6F6;
+      margin-left:80px;
+   }
+  hr{
+     border-style:none;
+     border-top: 5px dotted grey;
+     width:5%;
+     }
+  img{
+    border-radius: 50%;
+     }
+
+  h1,h3{
+      color:#66BFBF;
+    }
